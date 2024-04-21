@@ -2,13 +2,9 @@
 
 - [Overview](#this-is-only-a-QR-component)
   - [Screenshot](./design/desktop-design.jpg)
-  - [Links](#github-https://github.com/vishwajeet-8)
+  - [Links](github-https://github.com/vishwajeet-8)
 - [Author](#vishwajeet)
 
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ### Built with
 
@@ -17,7 +13,8 @@
 - Flexbox
 - Mobile-first workflow
 
-### What I learned
+
+### code
 
 ```html
 <!DOCTYPE html>
